@@ -1,4 +1,4 @@
-# Spark2 Challenge
+# Spark2 Challenge - Scala
 Developing a Spark 2 application (in Scala) that processes 2 CSV files.
 
 ## Introduction
